@@ -1,5 +1,5 @@
 # Expense Tracking App
-Open [Expense Tracking App] to view it in the browser.(https://vh5202002.github.io/expenseTracking-app/).
+Open [Expense Tracking App](https://vh5202002.github.io/expenseTracking-app/) to view it in the browser.
 
 ## AllThePages
 
