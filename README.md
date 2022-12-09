@@ -1,6 +1,6 @@
 # Expense Tracking App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Expense Tracking App](https://vh5202002.github.io/expenseTracking-app/).
 
 ## AllThePages
 
