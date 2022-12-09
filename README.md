@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## AllThePages
 
-homepage
+Homepage
 <img width="553" alt="Screenshot 2022-12-09 at 12 21 11 PM" src="https://user-images.githubusercontent.com/37912868/206792149-34c335dd-6911-41c1-bbff-eda34bd6ee56.png">
 
 Adding expense
